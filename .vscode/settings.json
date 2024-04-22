@@ -1,0 +1,9 @@
+{
+  "cSpell.words": ["fout"],
+  "files.associations": {
+    "*.tcc": "cpp",
+    "source_location": "cpp",
+    "iosfwd": "cpp",
+    "iostream": "cpp"
+  }
+}

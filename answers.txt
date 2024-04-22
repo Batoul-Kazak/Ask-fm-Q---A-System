@@ -1,0 +1,28 @@
+1 4 1 Sunlight scatters when it hits air molecules, with blue light scattering more than other colors, reaching our eyes and painting the sky blue.
+2 3 1 It's a mysterious substance thought to make up most of the matter in the universe, but its exact nature remains unknown.
+3 1 1 Vaccines expose your body to a weakened or inactive form of a virus or bacteria, training your immune system to fight it off if you encounter the real thing.
+4 3 1 Gravity is the force that attracts objects with mass towards each other. It's what keeps us on Earth and governs the motion of planets and stars.
+5 18 1 Einstein's theory explains that space and time are not absolute, but are relative to the observer and the speed of light.
+6 2 1 Correlation means two things happen together, but it doesn't mean one causes the other. Causation implies a direct connection between events.
+7 3 1 It's a mathematical constant found in nature and art, where a ratio of two numbers is equal to the sum of those two numbers divided by the larger one.
+8 2 1 Math can be used to create models that help us forecast weather patterns, population growth, or even the outcome of elections (with some limitations)
+9 3 1 Numbers that, when multiplied by themselves, result in a negative number. They are crucial for advanced math and physics.
+10 3 1 Cryptology uses math to secure information, encrypting data for online banking, messaging, and protecting passwords.
+11 4 1 Culture refers to the shared beliefs, values, and practices of a group, while society is the structure of a group, encompassing institutions, hierarchies, and social interactions.
+12 18 1 Technological advancements, economic shifts, political movements, and social justice movements can all drive social change.
+13 2 1 Psychology studies the human mind and behavior, helping us understand motivations, thoughts, and actions.
+14 6 1 Diversity fosters creativity, innovation, and a wider range of perspectives, leading to better problem-solving and a richer social fabric
+15 18 1 Increased interconnectedness can lead to economic inequality, cultural homogenization, and environmental concerns.
+16 1 1 The brain creates complex neural networks to store memories. Experiences strengthen these connections, making memories easier to recall.
+18 6 1 Issues like bias, job displacement, and the potential for misuse of AI require careful consideration when developing and implementing these technologies.
+21 2 1 The Cloud refers to a network of servers that store data and applications accessible from anywhere via the internet.
+22 3 1 It's all about code! The best programmers can write clean, efficient code that runs smoothly and fixes problems fast. They know all the tricks and shortcuts, and can come up with clever solutions
+22 7 2 It's not just coding, it's about seeing the bigger picture. Top programmers can design elegant systems, break down complex problems, and plan for the future. They write code that's easy to understand and maintain, not just something that works in the moment
+23 2 1 Because Barbies are fun! They have cool clothes and houses, and we can pretend to go on adventures together. It's like having a best friend who can be a doctor, a teacher, or even a rockstar!
+22 5 3 Programming is a team sport! The best programmers can communicate clearly, explain their ideas, and work well with others. They can learn from teammates, solve problems together, and adapt to changing needs
+22 18 4 The field of programming is always evolving. The best programmers are always learning new things, keeping up with the latest trends, and adapting their skills. They're curious, resourceful, and never stop improving
+24 1 1 While there are no biological differences, boys might be more encouraged to pursue math activities or take advanced classes
+24 3 2 There's actually no scientific evidence that boys are inherently better at math than girls. In fact, studies show that boys and girls perform very similarly in math
+25 18 1 Most healthy adults can hold their breath for around 2-3 minutes without any special training.
+25 2 2 Maximum 5 minutes
+25 3 3 3 minutes

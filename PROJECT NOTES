@@ -1,0 +1,15 @@
+1) complete the reset password function& complete the replace function in lib.h
+
+2) edit some user struct functions to be not void(like bool) = > i want them to work with the general struct later
+
+3)when finishing the project think about additional functionalies that can be added& Make README file and push on github
+
+*login function will make problems in users order after a user logging out
+ //either update user ids (to make them consecutive because they may not be consecutive, after deleting a user)
+        //OR make a vector of available ids it will take the id that be deleted 
+        //AND update generate id to check 
+        //=> if this vector is empty then work as it is 
+        //=> otherwise it will give him an id and pop it from the vector 
+        //=> IN THIS WAY (second way) i should edit some of functions that takes the id as the number of the line
+*edit login and signup to be submissive and dependent on the General struct (make them bool not void)
+    -and make the login function in the General struct have 3 trials
