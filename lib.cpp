@@ -4,10 +4,10 @@ const int MAX_USERS = 20,
 MAX_GENERAL_QUESTIONS = 20,
 MAX_SUB_QUESTIONS = 20;
 
-const string signed_up_users_path = "signed_up_users.txt",
-current_login_users_path = "current_login_users.txt",
-questions_path = "questions.txt",
-answers_path = "answers.txt";
+const string signed_up_users_path = "Files/signed_up_users.txt",
+current_login_users_path = "Files/current_login_users.txt",
+questions_path = "Files/questions.txt",
+answers_path = "Files/answers.txt";
 
 string convert_int_to_string(int num) //1 2 3 4 5 6 7
 {
@@ -215,3 +215,4 @@ int extract_user_id_from_question_or_answer_file(string line)
     }
     return -1;
 }
+

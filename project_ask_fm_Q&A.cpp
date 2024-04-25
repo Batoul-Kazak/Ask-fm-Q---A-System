@@ -1212,7 +1212,6 @@ struct question
         cout << "You question added successfully\n";
     }
 };
-
 struct general_struct
 {
     int total_users, total_questions;
@@ -1406,9 +1405,9 @@ int main()
     // question_.ask_question(3);
     // user_.list_system_users();
     // cout << convert_char_to_signed_integer('7');
-    user_.update_login_users_ids_vector();
+    // user_.update_login_users_ids_vector();
 
-    user_.print_vector();
-
+    // user_.print_vector();
+    cout << user_.check_if_user_login_by_id(10);
     return 0;
 }
