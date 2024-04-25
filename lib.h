@@ -1,41 +1,41 @@
-// #ifndef LIB_
-// #define LIB_
-// #include<iostream>
+#ifndef LIB_H_
+#define LIB_H_
+#include<iostream>
 // #include<string>
-// #include<vector>
-// using namespace std;
+#include<bits/stdc++.h>
+using namespace std;
 
-// const int MAX_USERS = 20;
-// const int MAX_GENERAL_QUESTIONS = 20;
-// const int MAX_SUB_QUESTIONS = 20;
+extern const int MAX_USERS,
+MAX_GENERAL_QUESTIONS,
+MAX_SUB_QUESTIONS;
 
-// string signed_up_users_path = "signed_up_users.txt",
-// current_login_users_path = "current_login_users.txt",
-// questions_path = "questions.txt",
-// // sub_questions_path = "sub_questions.txt",
-// answers_path = "answers.txt";
+extern const string signed_up_users_path,
+current_login_users_path,
+questions_path,
+answers_path;
 
-// int convert_char_to_signed_integer(char ch);
+string convert_int_to_string(int num);
 
-// int convert_string_to_integer(string str);
+int convert_char_to_signed_integer(char ch);
 
-// string convert_int_to_string(int num);
+bool is_symbol(char ch);
 
-// bool is_symbol(char ch);
+int convert_string_to_integer(string str);
 
-// int extract_id_from_line(string line);
+int extract_id_from_line(string line);
 
-// string extract_email_from_line(string file_line);
+string extract_email_from_line(string file_line);
 
-// string extract_password_from_sign_up_file(string file_line);
+string extract_password_from_sign_up_file(string file_line);
 
-// string extract_name_from_sign_up_file(string file_name);
+string extract_name_from_line(string line);
 
-// string replace_texts_in_the_line(string line, string old_text, string new_text);
+string replace_texts_in_the_line(string line, string old_text, string new_text);
 
-// int extract_question_id(string line);
+int return_file_lines_number(string file_path);
 
-// int extract_user_id_from_question_file(string line);
+int extract_question_id(string line);
 
+int extract_user_id_from_question_or_answer_file(string line);
 
-// #endif
+#endif

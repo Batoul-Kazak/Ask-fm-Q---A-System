@@ -1,3 +1,5 @@
+Apply the command g++ project_ask_fm_Q\&A.cpp lib.cpp to run the program
+
 Users guide:
 -you can ask questions and answer to another users questions but you must be login to the system
 -many users can answer the same question and even the same user can answer the same questions many times
